@@ -29,4 +29,3 @@ double pf(double x)
 {
   return -cos(x);
 }
- 
