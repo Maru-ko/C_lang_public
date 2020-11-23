@@ -9,7 +9,7 @@ they keep it all on the same process, different call stacks but same memory spac
 one thread can write into memory of anothe thread
 easier to communicate b/w threads
 
-windows - oh boy good luck
+windows - create thread
 
 posix threads api - pthreads (standard api can be used everywhere)
 
@@ -17,6 +17,7 @@ function that creates a new thread (pthreads p thread create) pointer to a funct
 
 with pthreads (thread function takes one void pointer and returns a void)
 
+ALOT WE CAN TALK ABOUT THREADS 
 
 
 */

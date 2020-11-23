@@ -3,6 +3,10 @@
 Thread allocates memory, and gives it back to main when done.
 remove v declaration
 
+We get the end pointer returned by the thread
+We store a pointer at the address
+It can point to a struct, array
+
 */
 #include <stdio.h>
 #include <unistd.h>
